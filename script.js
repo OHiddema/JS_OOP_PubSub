@@ -22,14 +22,5 @@ $(function() {
         i.onclick = function () {
             this.parentNode.remove();
         };
-    
-        // let name = $('#name').val();
-        // let appendStr = '<li><span>' + name + '</span><i class="del">X</i></li>'
-        // $('#people').append(appendStr);
     });
-
-    $('.del').on('click',function(){
-        $(this).parent().remove();
-    });
-
 });
