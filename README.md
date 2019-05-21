@@ -5,4 +5,7 @@ In this project I will implement the Publisher Subscriber Model for a simple app
 
 
 Step 1.
-Create the app (HTML, CSS, JS) without using OOP.
+Create the (incomplete) app (HTML, CSS, JS) without using OOP.
+
+Step 2.
+Use an object literal for the (unordered) list of names.

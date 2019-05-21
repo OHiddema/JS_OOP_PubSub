@@ -30,7 +30,10 @@ button {
     background: #98ec9b;
     border-radius: 5px;
     padding: 3px 8px;
-    margin: 5px 0;
+
+    margin: 2px;
+    border: 1px solid black;
+
     width: 200px;
     opacity: 0.8;
     transition: opacity 0.3s;
